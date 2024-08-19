@@ -18,3 +18,6 @@ Performance Optimization: The app efficiently handles image uploads and cryptogr
 Private Image Sharing: Share confidential images securely across different platforms without the risk of unauthorized access.
 Data Protection: Use the app to encrypt images before storing them in cloud services, ensuring that even if storage is compromised, the images remain secure.
 Educational Purposes: Ideal for those learning about cryptographic algorithms and web security, demonstrating practical applications of encryption techniques.
+
+## Project Flowchart
+![Flowchart](Asset/Pixelflow.drawio.png)
